@@ -19,21 +19,21 @@ all modules will have custom control panels so they can easily be mapped in anyw
 
 
 **Dreamweaver**
-quad oscillator cluster /> ramp creator > ramp effector
-the quad osc can be used to modulate the ramps 
-then there are lots of ways to change the ramps (mirror, color, feedback etc..)
-this is our first TD video synth voice
+* quad oscillator cluster /> ramp creator > ramp effector
+* the quad osc can be used to modulate the ramps 
+* then there are lots of ways to change the ramps (mirror, color, feedback etc..)
+* this is our first TD video synth voice
 
 
 **FKG3**
-this is an emulation of the LZX FKG3 module
-FG,BG,Key RGB compositing
+* this is an emulation of the LZX FKG3 module
+* FG,BG,Key RGB compositing
 
 **coming in the future**
-topogram (just needs cleaning)
-arch / DSG3 (core concepts are worked out)
-4 quadrant multiplier (a building block that gets used all over the place)
-video looper (already done just needs cleaning)
-video looper / temporal displacement (cleaning)
-colorizer (topogram > matrix mixer > composite types at the heart haven't started)
-Scrawl (our rpi video painter) needs a full rebuild
+* topogram (just needs cleaning)
+* arch / DSG3 (core concepts are worked out)
+* 4 quadrant multiplier (a building block that gets used all over the place)
+* video looper (already done just needs cleaning)
+* video looper / temporal displacement (cleaning)
+* colorizer (topogram > matrix mixer > composite types at the heart haven't started)
+* Scrawl (our rpi video painter) needs a full rebuild
