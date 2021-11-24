@@ -32,11 +32,11 @@ all modules will have custom control panels so they can easily be mapped in anyw
 
 
 **Topogram**
-A simple topogram emulation for now. There is still work to be done but as far as a cascading set of keyers this will work!
+* A simple topogram emulation for now. There is still work to be done but as far as a cascading set of keyers this will work!
 
 
 **Colorize**
-Our first colorizer. Controlled almost entirely by a single randomize button.
+* Our first colorizer. Controlled almost entirely by a single randomize button.
 
 
 
