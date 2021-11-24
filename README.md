@@ -29,11 +29,21 @@ all modules will have custom control panels so they can easily be mapped in anyw
 * this is an emulation of the LZX FKG3 module
 * FG,BG,Key RGB compositing
 
+
+
+**Topogram**
+A simple topogram emulation for now. There is still work to be done but as far as a cascading set of keyers this will work!
+
+
+**Colorize**
+Our first colorizer. Controlled almost entirely by a single randomize button.
+
+
+
 **coming in the future**
-* topogram (just needs cleaning)
+
 * arch / DSG3 (core concepts are worked out)
 * 4 quadrant multiplier (a building block that gets used all over the place)
 * video looper (already done just needs cleaning)
 * video looper / temporal displacement (cleaning)
-* colorizer (topogram > matrix mixer > composite types at the heart haven't started)
 * Scrawl (our rpi video painter) needs a full rebuild
