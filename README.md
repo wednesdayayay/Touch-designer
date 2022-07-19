@@ -35,8 +35,13 @@ all modules will have custom control panels so they can easily be mapped in anyw
 * A simple topogram emulation for now. There is still work to be done but as far as a cascading set of keyers this will work!
 
 
-**Colorize**
-* Our first colorizer. Controlled almost entirely by a single randomize button.
+**RGBbander**
+* Our first colorizer. This made of fairly simple parts but can do a whole lot of color transforms
+
+**VVeb**
+* this started out as a memory palace emulation and is growing to be a whole lot more.
+* https://www.youtube.com/watch?v=lI00GCLIrLw a video overview of the patch
+
 
 
 
