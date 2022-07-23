@@ -44,6 +44,19 @@ all modules will have custom control panels so they can easily be mapped in anyw
 
 **XY Gesture looper**
 
+X Y inputs for your controls 
+X&Y effect switch - choose between control input, S&H or LFO blend
+X&Y LFO Freq - frequency of lfos
+X&Y LFO Blend - blends between X&Y input controls and associated LFO
+X&Y gesture mode - turns on/off gesture recording
+record loop - records from on until off and automatically loops
+play loop - starts and stops loop playback 
+speed of loop  - recording a loop at .5 on the slider will allow you to make the loop faster or slower all the way down to stopped
+lag amount - sets end of chain lag
+
+
+the X&Y effect switches go into the gesture looper so you can loop control input, S&H or LFO blend signals
+
 
 
 
