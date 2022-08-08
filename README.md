@@ -41,6 +41,7 @@ all modules will have custom control panels so they can easily be mapped in anyw
 **VVeb**
 * this started out as a memory palace emulation and is growing to be a whole lot more.
 * https://www.youtube.com/watch?v=lI00GCLIrLw a video overview of the patch
+* https://forum.derivative.ca/t/video-synthesis-style-patch-vveb/275567 a long post about the project
 
 **XY Gesture looper**
 
